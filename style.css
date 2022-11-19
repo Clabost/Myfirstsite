@@ -1,14 +1,3 @@
-header{
-    font-family: 'Crimson Text', serif;
-    font-weight: 400;
-}
-
-#menu1{
-    font-family: 'Abril Fatface', cursive;
-    font-weight: 700;
-}
-
-
 .footer-columns {
             display: flex;
         }
